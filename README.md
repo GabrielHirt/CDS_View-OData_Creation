@@ -70,7 +70,7 @@ Verify the service response in the Response Body section to ensure the service w
 - Data
 - Get Data
 - From Other Sources
-- From OData Feed
+- From OData Feed </br>
 ![image](https://github.com/user-attachments/assets/19701e29-600a-4fd6-aa16-7e80b0172c87)
 
 Example of display
