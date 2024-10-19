@@ -60,19 +60,21 @@ Verify the service response in the Response Body section to ensure the service w
 - Ensure to copy the proper protocol.
 - Be tuned, the URL to be copy it's inside the tags and order following:
   <atom:link href="" rel="latest-version"/></br></br>
-**Example for localization**
+**Example for localization**</br>
 ![image](https://github.com/user-attachments/assets/b983fbd1-81bc-4b4f-993f-9250297db653)
 </br>
 
-## 4. Excel OData Consume
+## 5. Excel OData Consume
 
 **Step to Access:**
 - Data
 - Get Data
 - From Other Sources
-- From OData Feed </br>
-![image](https://github.com/user-attachments/assets/19701e29-600a-4fd6-aa16-7e80b0172c87)
+- From OData Feed</br>
 
-Example of display
+![image](https://github.com/user-attachments/assets/19701e29-600a-4fd6-aa16-7e80b0172c87)</br>
+
+**Example of display:**</br>
+
 ![image](https://github.com/user-attachments/assets/e1553f6f-de78-4b86-a9f0-9aace552ede2)
 
