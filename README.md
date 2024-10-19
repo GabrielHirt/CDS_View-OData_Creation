@@ -1,6 +1,6 @@
 # OData Service Creation using CDS View with `@OData.publish: true`
 
-## 1. Define the CDS View in Eclipse
+## 1. Define the CDS View in Eclipse 📋
 
 - Create or open your CDS view (ex. `ZDD_EXEMPLO`).
 - Add the following annotation to expose the view as an OData service:
@@ -9,7 +9,7 @@
 
 - Activate the CDS view.
 
-## 2. Register the OData Service
+## 2. Register the OData Service ⚙️
 Open SAP GUI and run the following transaction:
 
 **Copiar código**
@@ -30,10 +30,9 @@ Open SAP GUI and run the following transaction:
 - Choose a Package or Local Object (if it’s a test service).
 - Confirm the registration by saving.
 
-## 3. Test the OData Service
+## 3. Test the OData Service 🛠️
 Open the Gateway Client by running the following transaction:
 
-**Copiar código**
 ```abap
 /IWFND/GW_CLIENT
 ```
@@ -52,7 +51,7 @@ Click Execute and review the response.
 Verify the service response in the Response Body section to ensure the service works as expected.
 
 
-## 4. Expose the OData Service to External Systems
+## 4. Expose the OData Service to External Systems 🔩
 **Share the Service URL with consumers:**
 ```abap
 /sap/opu/odata/sap/ZDD_WORKFLOW_CDS/
@@ -64,7 +63,7 @@ Verify the service response in the Response Body section to ensure the service w
 ![image](https://github.com/user-attachments/assets/b983fbd1-81bc-4b4f-993f-9250297db653)
 </br>
 
-## 5. Excel OData Consume
+### 5. Excel OData Consume
 
 **Step to Access:**
 - Data
